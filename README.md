@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Faiaz. Nice to meet you.</h1>
 <h3 align="center"></h3>
 
-<h3>A passionate frontend developer from Banglasesh</h3>
+<h3>A passionate Web Developer from Banglasesh</h3>
 
 - 🌱 I’m currently learning MERN Stack
 
