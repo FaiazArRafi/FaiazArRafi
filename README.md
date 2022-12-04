@@ -9,3 +9,11 @@
 - 📫 How to reach me: faiazarrafi@gmail.com
 
 
+
+
+ nightowl: {
+    title_color: "c792ea",
+    icon_color: "ffeb95",
+    text_color: "7fdbca",
+    bg_color: "011627",
+  }
